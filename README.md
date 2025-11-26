@@ -4,7 +4,7 @@ Este repositório reúne exercícios, desafios e pequenos projetos desenvolvidos
 Os exercícios estão organizados por nível de dificuldade e por tema, facilitando revisão, navegação e acompanhamento da evolução na linguagem.
 
 
-## 📁 Estrutura do Repositório
+## Estrutura do Repositório
 
 ```plaintext
 java_exercices/
@@ -18,7 +18,7 @@ java_exercices/
 ```
 
 
-## 🎯 Objetivo do Repositório
+## Objetivo do Repositório
 
 - Consolidar fundamentos da linguagem Java
 - Praticar lógica de programação
@@ -27,7 +27,7 @@ java_exercices/
 - Preparar para oportunidades de trabalho utilizando Java
 
 
-## 📚 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - Java (JDK 21+)
 - VS Code ou IntelliJ (qualquer IDE compatível)
