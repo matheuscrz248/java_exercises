@@ -1,4 +1,4 @@
-# 📘 Java Exercices 
+# Java Exercices 📘
 
 Este repositório reúne exercícios, desafios e pequenos projetos desenvolvidos durante meu estudo de Java, com foco em lógica de programação, fundamentos da linguagem e Programação Orientada a Objetos (POO).
 Os exercícios estão organizados por nível de dificuldade e por tema, facilitando revisão, navegação e acompanhamento da evolução na linguagem.
