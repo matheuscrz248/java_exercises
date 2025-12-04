@@ -26,5 +26,6 @@ public class Main {
         System.out.println("A divisão de " + n1 + " por " + n2 + " é: " + result_Div);
         System.out.println("O resto da divisão de " + n1 + " por " + n2 + " é: " + result_Res);
 
+        scanner.close();
     }
 }
