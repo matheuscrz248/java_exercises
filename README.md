@@ -13,6 +13,7 @@ java_exercices/
     ├── conditions            # Condições, if, else...      
     ├── helloworld            # Primeiro helloworld!
     ├── mathOperations        # Operações matemáticas
+    ├── printfs               # Printf e formatação de números
     ├── random                # Números aleatórios e "cara" ou "coroa"
     ├── scanner               # Entrada e saída
     └── variaveis             # Uso de variáveis
