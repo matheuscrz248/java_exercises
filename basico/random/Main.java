@@ -10,7 +10,7 @@ public class Main {
         int n1;
         boolean isHead;
 
-        n1 = random.nextInt(1,9);
+        n1 = random.nextInt(1,10);
         isHead = random.nextBoolean();
 
         System.out.println("Número aleatório: " + n1);
