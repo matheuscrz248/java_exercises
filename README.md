@@ -10,10 +10,12 @@ Os exercícios estão organizados por nível de dificuldade e por tema, facilita
 java_exercices/
 │
 └── basico/
+    ├── classMath             # Métodos de matemática
+    ├── comparison            # Comparação e condição
     ├── conditions            # Condições, if, else...      
+    ├── evenOddOrNegative     # Verica se o número é par, ímpar ou negativo
     ├── helloworld            # Primeiro helloworld!
     ├── mathOperations        # Operações matemáticas
-    ├── evenOddOrNegative     # Verica se o número é par, ímpar ou negativo
     ├── printfs               # Printf e formatação de números
     ├── random                # Números aleatórios e "cara" ou "coroa"
     ├── scanner               # Entrada e saída
