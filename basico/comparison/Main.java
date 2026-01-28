@@ -27,5 +27,6 @@ public class Main {
             C = A * B;
             System.out.printf("%d * %d = %d%n", A, B, C);
         }
+        scanner.close();
     }
 }
