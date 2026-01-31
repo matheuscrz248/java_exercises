@@ -10,6 +10,7 @@ Os exercícios estão organizados por nível de dificuldade e por tema, facilita
 java_exercices/
 │
 └── basico/
+    ├── ascendingOrder        # Imprime números em ordem crescente ou decrescente
     ├── booleanTrue           # Verifica se boolean é verdadeiro
     ├── classMath             # Métodos de matemática
     ├── comparison            # Comparação e condição
