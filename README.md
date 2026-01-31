@@ -11,6 +11,7 @@ java_exercices/
 │
 └── basico/
     ├── ascendingOrder        # Imprime números em ordem crescente ou decrescente
+    ├── bodyMassIndex         # índice de massa corporal
     ├── booleanTrue           # Verifica se boolean é verdadeiro
     ├── classMath             # Métodos de matemática
     ├── comparison            # Comparação e condição
