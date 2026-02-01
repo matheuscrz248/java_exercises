@@ -7,6 +7,10 @@ public class Average {
         Scanner scanner = new Scanner(System.in);
 
         double g1, g2, g3, average;
+        String name;
+
+        System.out.println("Enter your name:");
+        name = scanner.nextLine();
 
         System.out.println("Enter the first grade:");
         g1 = scanner.nextDouble();
@@ -18,6 +22,8 @@ public class Average {
         g3 = scanner.nextDouble();
 
         average = (g1 + g2 + g3) / 3;
+
+        System.out.println("\nName: " + name);
 
         if (average <= 2) {
             System.out.println("You did not pass");
