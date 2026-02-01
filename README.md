@@ -10,6 +10,7 @@ Os exercícios estão organizados por nível de dificuldade e por tema, facilita
 java_exercices/
 │
 └── basico/
+    ├── average               # Calcula média de notas
     ├── ascendingOrder        # Imprime números em ordem crescente ou decrescente
     ├── bodyMassIndex         # índice de massa corporal
     ├── booleanTrue           # Verifica se boolean é verdadeiro
