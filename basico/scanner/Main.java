@@ -16,7 +16,7 @@ public class Main {
         System.out.print("Digite o nome: ");
         nome = scanner.nextLine();
 
-        // Método numérico do Scanner não consome o ENTER, somente "scanner.nextLine();" ou "scanner.nextLine();".
+        // Método numérico do Scanner não consome o ENTER, somente "scanner.nextLine();" ou "scanner.next();".
         System.out.print("Digite a idade: ");
         idade = scanner.nextInt();
         scanner.nextLine();
