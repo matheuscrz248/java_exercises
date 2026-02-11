@@ -20,6 +20,8 @@ java_exercices/
     ├── evenOddOrNegative     # Verica se o número é par, ímpar ou negativo
     ├── helloworld            # Primeiro helloworld!
     ├── mathOperations        # Operações matemáticas
+    ├── minimumWage           # Quantos salários mínimos
+    ├── paymentmethod         # Método de pagamento com descontos, parcelas...
     ├── printfs               # Printf e formatação de números
     ├── random                # Números aleatórios e "cara" ou "coroa"
     ├── scanner               # Entrada e saída
