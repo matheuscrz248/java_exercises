@@ -10,24 +10,24 @@ Os exercícios estão organizados por nível de dificuldade e por tema, facilita
 java_exercices/
 │
 └── basico/
-    ├── average               # Calcula média de notas
-    ├── ascendingOrder        # Imprime números em ordem crescente ou decrescente
-    ├── bodyMassIndex         # índice de massa corporal
-    ├── booleanTrue           # Verifica se boolean é verdadeiro
-    ├── classMath             # Métodos de matemática
-    ├── comparison            # Comparação e condição
-    ├── conditions            # Condições, if, else...      
-    ├── evenOddOrNegative     # Verica se o número é par, ímpar ou negativo
-    ├── helloworld            # Primeiro helloworld!
-    ├── mathOperations        # Operações matemáticas
-    ├── minimumWage           # Quantos salários mínimos
-    ├── paymentmethod         # Método de pagamento com descontos, parcelas...
-    ├── printfs               # Printf e formatação de números
-    ├── random                # Números aleatórios e "cara" ou "coroa"
-    ├── scanner               # Entrada e saída
-    ├── swap                  # Troca de valores
-    ├── temperatureconversion # Conversão de temperatura 
-    └── variaveis             # Uso de variáveis
+    ├── average                   # Calcula média de notas
+    ├── ascendingOrder            # Imprime números em ordem crescente ou decrescente
+    ├── bodyMassIndex             # índice de massa corporal
+    ├── booleanTrue               # Verifica se boolean é verdadeiro
+    ├── classMath                 # Métodos de matemática
+    ├── comparison                # Comparação e condição
+    ├── conditions                # Condições, if, else...      
+    ├── evenOddOrNegative         # Verica se o número é par, ímpar ou negativo
+    ├── helloworld                # Primeiro helloworld!
+    ├── mathOperations            # Operações matemáticas
+    ├── minimumWage               # Quantos salários mínimos
+    ├── paymentmethod             # Método de pagamento com descontos, parcelas...
+    ├── printfs                   # Printf e formatação de números
+    ├── random                    # Números aleatórios e "cara" ou "coroa"
+    ├── scanner                   # Entrada e saída
+    ├── swap                      # Troca de valores
+    ├── temperatureconversion     # Conversão de temperatura 
+    └── variaveis                 # Uso de variáveis
 ```
 
 
