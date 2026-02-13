@@ -22,6 +22,7 @@ java_exercices/
     ├── helloworld                # Primeiro helloworld!
     ├── mathOperations            # Operações matemáticas
     ├── minimumWage               # Quantos salários mínimos
+    ├── multiplicationtable       # Tabuada de 1 até 10
     ├── paymentmethod             # Método de pagamento com descontos, parcelas...
     ├── previousAndNextNumber     # Anterior e próximo número
     ├── printfs                   # Printf e formatação de números
