@@ -25,6 +25,8 @@ java_exercices/
     ├── printfs               # Printf e formatação de números
     ├── random                # Números aleatórios e "cara" ou "coroa"
     ├── scanner               # Entrada e saída
+    ├── swap                  # Troca de valores
+    ├── temperatureconversion # Conversão de temperatura 
     └── variaveis             # Uso de variáveis
 ```
 
