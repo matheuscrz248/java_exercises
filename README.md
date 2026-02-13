@@ -23,6 +23,7 @@ java_exercices/
     ├── mathOperations            # Operações matemáticas
     ├── minimumWage               # Quantos salários mínimos
     ├── paymentmethod             # Método de pagamento com descontos, parcelas...
+    ├── previousAndNextNumber     # Anterior e próximo número
     ├── printfs                   # Printf e formatação de números
     ├── random                    # Números aleatórios e "cara" ou "coroa"
     ├── scanner                   # Entrada e saída
