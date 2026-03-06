@@ -33,7 +33,7 @@ java_exercices/
 │   └── variaveis                 # Uso de variáveis
 │  
 └── poo/                          # Programação orientada a objetos
-    └── personbasics              # Person class with attributes, methods, objects and voting status
+    └── personbasics              # Classe Person com atributos, métodos e objetos
 ```
 
 
