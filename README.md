@@ -9,28 +9,31 @@ Os exercícios estão organizados por nível de dificuldade e por tema, facilita
 ```plaintext
 java_exercices/
 │
-└── basico/
-    ├── average                   # Calcula média de notas
-    ├── ascendingOrder            # Imprime números em ordem crescente ou decrescente
-    ├── bodyMassIndex             # índice de massa corporal
-    ├── booleanTrue               # Verifica se boolean é verdadeiro
-    ├── classMath                 # Métodos de matemática
-    ├── comparison                # Comparação e condição
-    ├── conditions                # Condições, if, else...      
-    ├── evenOddOrNegative         # Verica se o número é par, ímpar ou negativo
-    ├── franciscoandsara          # Anos necessários para altura de Sara ultrapassar Francisco
-    ├── helloworld                # Primeiro helloworld!
-    ├── mathOperations            # Operações matemáticas
-    ├── minimumWage               # Quantos salários mínimos
-    ├── multiplicationtable       # Tabuada de 1 até 10
-    ├── paymentmethod             # Método de pagamento com descontos, parcelas...
-    ├── previousAndNextNumber     # Anterior e próximo número
-    ├── printfs                   # Printf e formatação de números
-    ├── random                    # Números aleatórios e "cara" ou "coroa"
-    ├── scanner                   # Entrada e saída
-    ├── swap                      # Troca de valores
-    ├── temperatureconversion     # Conversão de temperatura 
-    └── variaveis                 # Uso de variáveis
+├── basico/
+│   ├── average                   # Calcula média de notas
+│   ├── ascendingOrder            # Imprime números em ordem crescente ou decrescente
+│   ├── bodyMassIndex             # índice de massa corporal
+│   ├── booleanTrue               # Verifica se boolean é verdadeiro
+│   ├── classMath                 # Métodos de matemática
+│   ├── comparison                # Comparação e condição
+│   ├── conditions                # Condições, if, else...      
+│   ├── evenOddOrNegative         # Verica se o número é par, ímpar ou negativo
+│   ├── franciscoandsara          # Anos necessários para altura de Sara ultrapassar Francisco
+│   ├── helloworld                # Primeiro helloworld!
+│   ├── mathOperations            # Operações matemáticas
+│   ├── minimumWage               # Quantos salários mínimos
+│   ├── multiplicationtable       # Tabuada de 1 até 10
+│   ├── paymentmethod             # Método de pagamento com descontos, parcelas...
+│   ├── previousAndNextNumber     # Anterior e próximo número
+│   ├── printfs                   # Printf e formatação de números
+│   ├── random                    # Números aleatórios e "cara" ou "coroa"
+│   ├── scanner                   # Entrada e saída
+│   ├── swap                      # Troca de valores
+│   ├── temperatureconversion     # Conversão de temperatura 
+│   └── variaveis                 # Uso de variáveis
+│  
+└── poo/                          # Programação orientada a objetos
+    └── personbasics              # Person class with attributes, methods, objects and voting status
 ```
 
 
