@@ -7,7 +7,7 @@ Os exercícios estão organizados por nível de dificuldade e por tema, facilita
 ## Estrutura do Repositório
 
 ```plaintext
-java_exercices/
+java_exercises/
 │
 ├── basico/
 │   ├── average                   # Calcula média de notas
