@@ -54,7 +54,7 @@ public class BankAccount {
     }
 
     public void printStatement() {
-        System.out.printf("Owner: %s%nBalance: $ %.2f%n%n", getOwner(), getBalance());
+        System.out.printf("Owner: %s%nBalance: $ %.2f%n%n", owner, balance);
     }
 
 
