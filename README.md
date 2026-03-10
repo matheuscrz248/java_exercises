@@ -34,7 +34,8 @@ java_exercises/
 │  
 └── poo/                          # Programação orientada a objetos
     ├── personbasics              # Classe Person com atributos, métodos e objetos
-    └── bankaccount               # Classe BankAccount com encapsulamento, getters e setters
+    ├── bankaccount               # Classe BankAccount com encapsulamento, getters e setters
+    └── vehicle                   # Vehicle, Car and Motorcycle classes with inheritance and method overriding
 ```
 
 
