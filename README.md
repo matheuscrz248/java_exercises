@@ -33,8 +33,10 @@ java_exercises/
 │   └── variaveis                 # Uso de variáveis
 │  
 └── poo/                          # Programação orientada a objetos
-    ├── personbasics              # Classe Person com atributos, métodos e objetos
     ├── bankaccount               # Classe BankAccount com encapsulamento, getters e setters
+    ├── personbasics              # Classe Person com atributos, métodos e objetos
+    ├── personconstructors        # Person class with constructor
+    ├── shapes                    # Circle, Rectangle and Triangle classes with polymorphism
     └── vehicle                   # Vehicle, Car and Motorcycle classes with inheritance and method overriding
 ```
 
