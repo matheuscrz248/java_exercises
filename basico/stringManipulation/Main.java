@@ -25,5 +25,15 @@ public class Main {
         System.out.println("Index of 'bc': " + i);
         System.out.println("Last index of 'bc': " + j);
 
+        String s = "potato apple lemon";
+        String[] vect = s.split(" ");
+        String word1 = vect[0];
+        String word2 = vect[1];
+        String word3 = vect[2];
+
+        System.out.println("\nWord 1: " + word1);
+        System.out.println("Word 2: " + word2);
+        System.out.println("Word 3: " + word3);
+
     }
 }

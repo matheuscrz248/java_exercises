@@ -28,7 +28,7 @@ java_exercises/
 │   ├── printfs                   # Printf e formatação de números
 │   ├── random                    # Números aleatórios e "cara" ou "coroa"
 │   ├── scanner                   # Entrada e saída
-│   ├── stringManipulation        # lowerCase, upperCase, replace, trim...
+│   ├── stringManipulation        # lowerCase, upperCase, replace, split...
 │   ├── swap                      # Troca de valores
 │   ├── temperatureconversion     # Conversão de temperatura 
 │   └── variaveis                 # Uso de variáveis
