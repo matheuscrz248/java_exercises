@@ -35,6 +35,7 @@ java_exercises/
 │  
 └── poo/                          # Programação orientada a objetos
     ├── bankaccount               # Classe BankAccount com encapsulamento, getters e setters
+    ├── netsalary                 # Employee class with net salary calculation and increase
     ├── personbasics              # Classe Person com atributos, métodos e objetos
     ├── personconstructors        # Person class with constructor
     ├── shapes                    # Circle, Rectangle and Triangle classes with polymorphism
