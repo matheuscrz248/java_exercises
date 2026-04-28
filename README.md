@@ -39,6 +39,7 @@ java_exercises/
     ├── personbasics              # Classe Person com atributos, métodos e objetos
     ├── personconstructors        # Person class with constructor
     ├── shapes                    # Circle, Rectangle and Triangle classes with polymorphism
+    ├── student                   # Student class with score tracking and approval check
     └── vehicle                   # Vehicle, Car and Motorcycle classes with inheritance and method overriding
 ```
 
