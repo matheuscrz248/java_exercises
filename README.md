@@ -1,65 +1,66 @@
 # Java Exercises 📘
 
-Este repositório reúne exercícios, desafios e pequenos projetos desenvolvidos durante meu estudo de Java, com foco em lógica de programação, fundamentos da linguagem e Programação Orientada a Objetos (POO).
-Os exercícios estão organizados por nível de dificuldade e por tema, facilitando revisão, navegação e acompanhamento da evolução na linguagem.
+This repository contains exercises, challenges, and small projects developed during my Java studies, focusing on programming logic, language fundamentals, and Object-Oriented Programming (OOP).
+The exercises are organized by difficulty level and topic, making it easier to review, navigate, and track progress in the language.
 
 
-## Estrutura do Repositório
+## Repository Structure
 
 ```plaintext
 java_exercises/
 │
-├── basico/
-│   ├── average                   # Calcula média de notas
-│   ├── ascendingOrder            # Imprime números em ordem crescente ou decrescente
-│   ├── bodyMassIndex             # índice de massa corporal
-│   ├── booleanTrue               # Verifica se boolean é verdadeiro
-│   ├── classMath                 # Métodos de matemática
-│   ├── comparison                # Comparação e condição
-│   ├── conditions                # Condições, if, else...      
-│   ├── evenOddOrNegative         # Verica se o número é par, ímpar ou negativo
-│   ├── franciscoandsara          # Anos necessários para altura de Sara ultrapassar Francisco
-│   ├── helloworld                # Primeiro helloworld!
-│   ├── mathOperations            # Operações matemáticas
-│   ├── minimumWage               # Quantos salários mínimos
-│   ├── multiplicationtable       # Tabuada de 1 até 10
-│   ├── paymentmethod             # Método de pagamento com descontos, parcelas...
-│   ├── previousAndNextNumber     # Anterior e próximo número
-│   ├── printfs                   # Printf e formatação de números
-│   ├── random                    # Números aleatórios e "cara" ou "coroa"
-│   ├── scanner                   # Entrada e saída
+├── basic/
+│   ├── average                   # Calculates grade average
+│   ├── ascendingOrder            # Prints numbers in ascending or descending order
+│   ├── bodyMassIndex             # Body mass index calculator
+│   ├── booleanTrue               # Checks if a boolean is true
+│   ├── classMath                 # Math utility methods
+│   ├── comparison                # Comparison and conditions
+│   ├── conditions                # Conditions, if, else...
+│   ├── evenOddOrNegative         # Checks if a number is even, odd or negative
+│   ├── franciscoandsara          # Years needed for Sara's height to surpass Francisco's
+│   ├── helloworld                # First hello world!
+│   ├── mathOperations            # Math operations
+│   ├── minimumWage               # How many minimum wages
+│   ├── multiplicationtable       # Multiplication table from 1 to 10
+│   ├── paymentmethod             # Payment method with discounts, installments...
+│   ├── previousAndNextNumber     # Previous and next number
+│   ├── printfs                   # Printf and number formatting
+│   ├── random                    # Random numbers and coin flip
+│   ├── scanner                   # Input and output
 │   ├── stringManipulation        # lowerCase, upperCase, replace, split...
-│   ├── swap                      # Troca de valores
-│   ├── temperatureconversion     # Conversão de temperatura 
-│   └── variaveis                 # Uso de variáveis
+│   ├── swap                      # Value swapping
+│   ├── temperatureconversion     # Temperature conversion
+│   └── variaveis                 # Variable usage
 │  
-└── poo/                          # Programação orientada a objetos
-    ├── bankaccount               # Classe BankAccount com encapsulamento, getters e setters
+└── poo/                          # Object-Oriented Programming
+    ├── bankaccount               # BankAccount class with encapsulation, getters and setters
     ├── netsalary                 # Employee class with net salary calculation and increase
-    ├── personbasics              # Classe Person com atributos, métodos e objetos
+    ├── personbasics              # Person class with attributes, methods and objects
     ├── personconstructors        # Person class with constructor
     ├── shapes                    # Circle, Rectangle and Triangle classes with polymorphism
+    ├── staticmodifier            # CurrencyConverter class with static and instance attributes
     ├── student                   # Student class with score tracking and approval check
     └── vehicle                   # Vehicle, Car and Motorcycle classes with inheritance and method overriding
 ```
 
 
-## Objetivo do Repositório
+## Repository Goals
 
-- Consolidar fundamentos da linguagem Java
-- Praticar lógica de programação
-- Desenvolver boas práticas de código
-- Criar uma base sólida para projetos maiores
-- Preparar para oportunidades de trabalho utilizando Java
+- Consolidate Java language fundamentals
+- Practice programming logic
+- Develop good coding practices
+- Build a solid foundation for larger projects
+- Prepare for job opportunities using Java
 
 
-## Tecnologias Utilizadas
+## Technologies Used
 
 - Java (JDK 21+)
-- VS Code ou IntelliJ (qualquer IDE compatível)
-- Git e GitHub para versionamento
+- VS Code or IntelliJ (any compatible IDE)
+- Git and GitHub for version control
 
 
-## Autor
+## Author
 
 - [matheuscrz248 - Matheus Cruz de Oliveira](https://github.com/matheuscrz248)
