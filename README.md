@@ -35,6 +35,7 @@ java_exercises/
 │  
 └── poo/                          # Object-Oriented Programming
     ├── bankaccount               # BankAccount class with encapsulation, getters and setters
+    ├── library                   # Book library system with borrowing, return and availability tracking
     ├── netsalary                 # Employee class with net salary calculation and increase
     ├── personbasics              # Person class with attributes, methods and objects
     ├── personconstructors        # Person class with constructor
